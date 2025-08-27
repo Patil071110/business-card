@@ -1,0 +1,41 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+.avatar {
+    width: 180px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #94d2bd;
+    color: #327c5f;
+    border-bottom: 15px solid beige;
+    border-radius: 10px;
+    box-shadow: 5px 10px 5px 1px rgb(22, 3, 66);    
+    
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.border-blue {
+    border: 3px dotted grey;
+    
+}
